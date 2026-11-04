@@ -1,0 +1,5 @@
+a = input("cual es tu nombre")
+b = input("cual es tu color favorito")
+c = input("cual es tu animal favorito")
+d = input("que haces en tus tiempos libres")
+e = input("cual es tu juego favorito")
